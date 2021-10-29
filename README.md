@@ -1,6 +1,6 @@
 # my-toolkit
 
-**生成静态html文件python脚本
+**生成静态html文件python脚本**
 - gen_news_html/main.py
 
 **微信各类 Lua-SDK**
